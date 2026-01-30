@@ -1,65 +1,99 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Your Name — Developer Portfolio</title>
-  <link rel="stylesheet" href="styles.css"/>
-  <script defer src="scripts.js"></script>
-</head>
-<body>
-  <header class="hero">
-    <h1>Hello, I'm <span class="highlight">Your Name</span></h1>
-    <p class="tagline">Software Engineer | Full-Stack Developer | Problem Solver</p>
-    <nav class="nav">
-      <a href="#about">About</a>
-      <a href="#projects">Projects</a>
-      <a href="#skills">Skills</a>
-      <a href="#contact">Contact</a>
-    </nav>
-  </header>
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">👋 Hey there, I'm <b>Romit Parmar</b></h1>
 
-  <section id="about" class="section card">
-    <h2>About Me</h2>
-    <p>I build scalable web applications and intuitive UIs. I enjoy working with JavaScript, Java, and modern frameworks.</p>
-  </section>
+<p align="center">
+  <b>Student | Software Engineer | IoT & Networking Enthusiast</b><br>
+  Turning ideas into practical projects and learning new technologies every day
+</p>
 
-  <section id="projects" class="section card">
-    <h2>Featured Projects</h2>
-    <div class="grid">
-      <div class="project">
-        <h3>Password Generator</h3>
-        <p>Chrome extension to generate unique, hard-to-crack passwords.</p>
-        <a href="https://github.com/yourusername/password-generator">View Code</a>
-      </div>
-      <div class="project">
-        <h3>Roll-n-Hold Game</h3>
-        <p>Real-time two-player web game with Socket.io.</p>
-        <a href="https://github.com/yourusername/roll-n-hold">View Code</a>
-      </div>
-    </div>
-  </section>
+<p align="center">
+  <img src="https://img.shields.io/badge/🌍-GitHub%20Portfolio-blue"/>
+  <img src="https://img.shields.io/badge/📚-Learning%20Everyday-green"/>
+  <img src="https://img.shields.io/badge/🚀-Always%20Growing-yellow"/>
+</p>
 
-  <section id="skills" class="section card">
-    <h2>Skills</h2>
-    <ul class="skills">
-      <li>JavaScript</li>
-      <li>HTML & CSS</li>
-      <li>React</li>
-      <li>Node.js / Express</li>
-      <li>Java / Servlets</li>
-      <li>SQL / Databases</li>
-    </ul>
-  </section>
+---
 
-  <section id="contact" class="section card">
-    <h2>Contact Me</h2>
-    <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
-    <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
-  </section>
+## 🧠 About Me
 
-  <footer>
-    <p>© 2026 Your Name. All rights reserved.</p>
-  </footer>
-</body>
-</html>
+I’m a passionate **software engineer and IoT enthusiast** with a keen interest in embedded systems, networking concepts, and building real-world solutions.  
+On GitHub, I share projects that reflect my learning journey — from beginner-level experiments to student-focused documentation and code examples.
+
+I use this space to:
+- Showcase hands-on projects 🛠️
+- Organize study materials 📘
+- Explore new technologies and tools 💡
+
+---
+
+## 💡 What I Do
+
+### 📌 Areas of Interest
+- Internet of Things (IoT) and Sensor Projects
+- Computer Networking Fundamentals
+- Machine Learning Basics
+- Software Development and Coding Practice
+- Embedded Systems & Automation
+
+---
+
+## 📌 Skills Snapshot
+
+**Languages & Tools**
+| Skill | Experience |
+|-------|------------|
+| C / C++ | 🔹🔹🔹🔹 |
+| Arduino / ESP Boards | 🔹🔹🔹🔹 |
+| Networking Concepts (OSI, TCP/IP, IPv6) | 🔹🔹🔹 |
+| Python (Basics / ML) | 🔹🔹🔹 |
+| Git / GitHub | 🔹🔹🔹🔹 |
+
+---
+
+## ⭐ Projects & Repositories
+
+Here are a few highlighted repositories that reflect my work so far:
+
+### 📂 Featured Repos
+
+🔹 **IoT Projects** – Sensor integrations and embedded systems  
+👉 https://github.com/romitparmar/IOT
+
+🔹 **Computer Networking Notes** – Unit-wise study materials  
+👉 https://github.com/romitparmar/Computer-Networking-
+
+🔹 **Basics of Machine Learning** – Introductory ML concepts  
+👉 https://github.com/romitparmar/Basics-Of-Machine-Learning-
+
+*(You can pin 4–6 of these on your GitHub profile for better visibility.)* :contentReference[oaicite:1]{index=1}
+
+---
+
+## 🔭 I’m Currently
+
+- Learning advanced networking and IoT systems
+- Building more examples with sensors and real-world hardware
+- Practicing real-world problem solving via code
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: <your-email@example.com>  
+🔗 LinkedIn: https://www.linkedin.com/in/romitparmar  
+🌐 Portfolio: (Add any personal site here if available)
+
+---
+
+## ⭐ Why This Portfolio
+
+My GitHub portfolio is a **living resume** that shows:
+- Actual code you can read and run
+- Projects linked to real learning goals
+- Documentation and explanations for understanding context :contentReference[oaicite:2]{index=2}
+
+---
+
+<p align="center">
+  <sup>“Keep learning, keep experimenting, and keep building.”</sup>
+</p>
